@@ -10,3 +10,5 @@ A graphical user interface based on windows operating system was developed using
 The system was tested and experimental results showing the performance of the proposed system were presented. 
 Earth scientists can use this system for educational seismic experiments. 
 It can be easily modified and used for other engineering applications.
+
+O. Kafadar and I. Sertcelik, "A Computer-Aided Data Acquisition System for Multichannel Seismic Monitoring and Recording," in IEEE Sensors Journal, vol. 16, no. 18, pp. 6866-6873, Sept.15, 2016, doi: 10.1109/JSEN.2016.2592960.
